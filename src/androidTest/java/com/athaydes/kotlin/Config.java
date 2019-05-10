@@ -1,6 +1,6 @@
 package com.athaydes.kotlin;
 
-import android.support.test.InstrumentationRegistry;
+import androidx.test.InstrumentationRegistry;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
